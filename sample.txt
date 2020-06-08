@@ -4,3 +4,4 @@ Stash 2
 three
 Commit 1
 Commit 2
+Third
